@@ -5,7 +5,7 @@ This is a simple autoclicker program written in Java with a small graphical user
 To use the program, simply run the Autoclicker class in your Java IDE or build an executable JAR file and run it from the command line.
 
 ## Autoclicker GUI
-[!Autoclicker Screenshot](https://imgur.com/a/uUvJ4EV)
+![Autoclicker Screenshot](https://imgur.com/a/uUvJ4EV, GUI)
 
 Once the program is running, you can set the delay between clicks in milliseconds by entering a number into the "Delay (ms)" field. Click the "Start" button to start the autoclicker. Press the "Stop" button or the key "ESC" to stop the autoclicker.
 
