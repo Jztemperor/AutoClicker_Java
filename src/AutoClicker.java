@@ -86,7 +86,8 @@ public class AutoClicker extends JFrame implements ActionListener {
             try {
                 delay = Integer.parseInt(delayField.getText());
             } catch (NumberFormatException nEx) {
-                delay = 100;
+                delay = 1000;
+                delayField.setText("1000");
             }
 
             new Thread(new Runnable() {
